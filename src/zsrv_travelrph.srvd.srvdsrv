@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSRV_TRAVELRPH'
+define service ZSRV_TRAVELRPH {
+  expose ZC_TRAVELRPH as Travel;
+}
